@@ -55,7 +55,7 @@
                     "type": "git",
                     "url": "https://github.com/fontmatrix/fontmatrix.git",
                     "tag": "v1.0.1",
-                    "commit": "COMMIT_OF_v1.0.1",
+                    "commit": "72193ac819096bc26aef15336572991da54cdbad",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
